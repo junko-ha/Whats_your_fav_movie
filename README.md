@@ -30,3 +30,4 @@ Apple, Orange, etc
 9. pasta
 10. mie ayam
 11. mazesoba
+chicken
